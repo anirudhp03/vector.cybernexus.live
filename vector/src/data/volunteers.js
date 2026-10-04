@@ -25,6 +25,7 @@ import nandhiniAvatar from '../assets/volunteers/nandhini.png'
 import varshniAvatar from '../assets/volunteers/varshni.png'
 import jossAvatar from '../assets/volunteers/joss.png'
 import preethiAvatar from '../assets/volunteers/preethi.png'
+import sripriyanAvatar from '../assets/volunteers/sripriyan.png'
 
 export const VOLUNTEER_GROUPS = [
   { category: 'principal', title: 'Patron' },
@@ -388,6 +389,19 @@ export const volunteers = [
       github: 'https://github.com/preethi',
       linkedin: '',
       instagram: '',
+      website: '',
+    },
+  },{
+    id: 28,
+    category: 'editor',
+    name: 'Sripriyan',
+    role: 'Chief Marketing Head',
+    avatar: sripriyanAvatar,
+    bio: 'Passionate about Cybersecurity, Digital Forensics, and Digital Marketing, with a drive to explore, create, and solve real-world challenges. Focused on combining technical expertise with creative strategy to learn, adapt, contribute, and grow through new opportunities.',
+    social: {
+      github: '',
+      linkedin: 'https://www.linkedin.com/in/sri-priyan-4b1664370',
+      instagram: 'https://www.instagram.com/_._wxnted_boy_',
       website: '',
     },
   },
